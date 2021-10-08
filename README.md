@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crhis35
 - 👀 I’m interested in AI and web development
-- 🌱 I’m currently learning al related these areas.
+- 🌱 I’m currently learning all related these areas.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
