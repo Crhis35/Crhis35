@@ -8,11 +8,18 @@
   <a href="https://www.linkedin.com/in/crhistian-caraballo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn icon" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Crhis35&show_icons=true&locale=en&layout=compact" alt="languages" /></p>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="flex: 1 1 45%; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Crhis35&show_icons=true&locale=en&layout=compact" alt="languages" style="width: 100%;" />
+  </div>
+  <div style="flex: 1 1 45%; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Crhis35&show_icons=true&locale=en" alt="github-stats" style="width: 100%;" />
+  </div>
+  <div style="flex: 1 1 100%; margin: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crhis35&" alt="contributions" style="width: 100%;" />
+  </div>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Crhis35&show_icons=true&locale=en" alt="github-stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Crhis35&" alt="contributions" /></p>
 
 
 <!---
