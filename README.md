@@ -23,7 +23,7 @@
   </picture>
   </div>
   <div style="flex: 1 1 100%; margin: 10px;">
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Crhis35&theme=dark)](https://git.io/streak-stats)
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Crhis35&theme=dark" alt="GitHub Streak" /></a>
   </div>
 </div>
 
