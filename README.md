@@ -9,10 +9,10 @@
 </p>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="flex: 1 1 40%; margin: 10px;">
+  <div style="flex: 1 1 30%; margin: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Crhis35&show_icons=true&locale=en&layout=compact" alt="languages" style="width: 100%;" />
   </div>
-  <div style="flex: 1 1 40%; margin: 10px;">
+  <div style="flex: 1 1 30%; margin: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Crhis35&show_icons=true&locale=en" alt="github-stats" style="width: 100%;" />
   </div>
   <div style="flex: 1 1 100%; margin: 10px;">
