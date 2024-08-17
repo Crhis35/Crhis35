@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/crhistian-caraballo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn icon" height="30" width="40" /></a>
 </p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="flex: 1 1 30%; margin: 10px;">
    <picture>
     <source
