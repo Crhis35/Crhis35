@@ -1,5 +1,22 @@
 <h1 align="center">Hi 👋, I'm Crhistian Caraballo</h1>
+
+<br />
+
+I'm a self-taught passionate System and Computing Engineering from Colombia.
+
+**About me**
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masterofelectronic&label=Profile%20views&color=0e75b6&style=flat" alt="view-count" /> </p>
+
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Crhis35&theme=nord" alt="profile-stats" /></a> </p>
 
