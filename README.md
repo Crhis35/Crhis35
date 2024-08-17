@@ -10,7 +10,17 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <div style="flex: 1 1 30%; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Crhis35&show_icons=true&locale=en" alt="github-stats" style="width: 100%;" />
+   <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=crhis35&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=crhis35&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=crhis35&show_icons=true" />
+  </picture>
   </div>
   <div style="flex: 1 1 100%; margin: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crhis35&" alt="contributions" style="width: 100%;" />
